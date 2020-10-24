@@ -1,0 +1,12 @@
+D:\PO\Zad10\Zad10\bin\Debug\netcoreapp3.1\Zad10.exe
+D:\PO\Zad10\Zad10\bin\Debug\netcoreapp3.1\Zad10.deps.json
+D:\PO\Zad10\Zad10\bin\Debug\netcoreapp3.1\Zad10.runtimeconfig.json
+D:\PO\Zad10\Zad10\bin\Debug\netcoreapp3.1\Zad10.runtimeconfig.dev.json
+D:\PO\Zad10\Zad10\bin\Debug\netcoreapp3.1\Zad10.dll
+D:\PO\Zad10\Zad10\bin\Debug\netcoreapp3.1\Zad10.pdb
+D:\PO\Zad10\Zad10\obj\Debug\netcoreapp3.1\Zad10.AssemblyInfoInputs.cache
+D:\PO\Zad10\Zad10\obj\Debug\netcoreapp3.1\Zad10.AssemblyInfo.cs
+D:\PO\Zad10\Zad10\obj\Debug\netcoreapp3.1\Zad10.csproj.CoreCompileInputs.cache
+D:\PO\Zad10\Zad10\obj\Debug\netcoreapp3.1\Zad10.dll
+D:\PO\Zad10\Zad10\obj\Debug\netcoreapp3.1\Zad10.pdb
+D:\PO\Zad10\Zad10\obj\Debug\netcoreapp3.1\Zad10.genruntimeconfig.cache
