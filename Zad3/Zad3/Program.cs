@@ -1,18 +1,22 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zad2
+namespace Zad3
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int powierzchnia = 100, osoby = 10;
-            double gestoscZaludnienia = (double)osoby / powierzchnia;
-            Console.WriteLine(gestoscZaludnienia);
+            Console.WriteLine("Podaj swoja mase w kg");
+            int masa = int.Parse(Console.ReadLine());
+            Console.WriteLine("Podaj swoj wzrost w metrach:");
+            double wzrost = double.Parse(Console.ReadLine());
+            double BMI = masa / (wzrost * wzrost);
+            Console.WriteLine("Twoje BMI to {0}", BMI);
+
             Console.ReadKey();
         }
     }
